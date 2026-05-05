@@ -27,8 +27,6 @@ Built entirely on public FDA datasets. Designed to answer the kinds of questions
 | Company Intelligence | Sponsor benchmarking — breadth vs depth, approval acceleration |
 | Patent Cliff Analysis | Drugs losing exclusivity 2024–2030, generic entry opportunity sizing |
 
-*(Add your Power BI screenshots here — export each page as PNG from Power BI: File → Export → Export to PDF or use Snipping Tool)*
-
 ---
 
 ## Data Sources
@@ -156,5 +154,4 @@ This type of analysis is directly relevant to:
 ## Author
 
 **Asfiya Tehmeen**
-
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/asfiya-tehmeen/) · [Portfolio](https://github.com/asfiya-tehmeen)
