@@ -97,7 +97,7 @@ fda-pipeline-intelligence/
 
 ---
 
-## Key Findings
+<!--## Key Findings
 
 > *Update these with your actual numbers after running the analysis*
 
@@ -106,7 +106,7 @@ fda-pipeline-intelligence/
 - **[Top Company]** led all sponsors by approval volume with [X] approvals, while **[Company 2]** showed the highest 3-year velocity acceleration
 - **[X] drugs** are projected to lose patent protection between 2024 and 2030, representing a significant generic market entry window — with [Year] being the peak cliff year
 - Tablet and capsule forms still dominate (~[X]% of approvals), but injectable and biological formulations have grown from [X]% to [X]% of annual approvals since 2010
-
+-->
 ---
 
 ## How to Run
